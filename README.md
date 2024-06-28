@@ -1,2 +1,3 @@
 # calculator
-my first project 
+It is my first project with using HTML5, CSS3, JAVASCRIPT..I konw its can't have the value in the resume. but has the value for me because it is my first project with javascript...
+
